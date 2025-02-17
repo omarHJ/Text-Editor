@@ -4,7 +4,7 @@ Text Editor is an ASP.NET MVC project that provides a feature-rich text editing 
 
 ## Prerequisites
 
-- [.NET 5/6/7 SDK](https://dotnet.microsoft.com/download)
+- [.NET 7 SDK or higher](https://dotnet.microsoft.com/download)
 - A supported database server (e.g., SQL Server)
 - A [TinyMCE API key](https://www.tiny.cloud/) (free or paid, depending on your needs)
 
