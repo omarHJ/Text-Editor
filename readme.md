@@ -1,7 +1,3 @@
-Below is an example of a `README.md` file you can include with your project:
-
----
-
 # Text Editor
 
 Text Editor is an ASP.NET MVC project that provides a feature-rich text editing experience powered by the TinyMCE editor. Follow the instructions below to get the project up and running on your local machine.
@@ -10,7 +6,6 @@ Text Editor is an ASP.NET MVC project that provides a feature-rich text editing 
 
 - [.NET 5/6/7 SDK](https://dotnet.microsoft.com/download)
 - A supported database server (e.g., SQL Server)
-- [Entity Framework Core Tools](https://docs.microsoft.com/en-us/ef/core/cli/dotnet) installed globally
 - A [TinyMCE API key](https://www.tiny.cloud/) (free or paid, depending on your needs)
 
 ## Getting Started
